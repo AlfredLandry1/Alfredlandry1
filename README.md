@@ -17,7 +17,7 @@
 
 ```typescript
 const developer = {
-  name: "Votre Nom",
+  name: "Styland Digital",
   role: "Développeur Full-Stack & Architecte IA",
   location: "Cameroun 🇨🇲",
   passion: ["Innovation", "IA", "Open Source", "Mentoring"],
