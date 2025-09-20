@@ -135,11 +135,11 @@ const developer = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=votre-username&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Alfredlandry1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=votre-username&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfredlandry1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=votre-username&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alfredlandry1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -255,7 +255,7 @@ graph TD
 
 ### 🚀 Merci de votre visite !
 
-<img src="https://komarev.com/ghpvc/?username=votre-username&style=for-the-badge&color=blue" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Alfredlandry1&style=for-the-badge&color=blue" alt="Profile Views" />
 
 **⭐ N'oubliez pas de laisser une étoile si vous aimez mes projets !**
 
