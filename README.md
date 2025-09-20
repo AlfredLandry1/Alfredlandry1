@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alfred-talom-743b842a5/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://dribbble.com/tfal237)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:votre.alfredlandrytalom2004@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alfredlandrytalom2004@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/votre-handle)
 
 </div>
@@ -17,18 +17,18 @@
 
 ```typescript
 const developer = {
-  name: "Styland Digital",
-  role: "Développeur Full-Stack & Architecte IA(en formation)",
+  name: "Votre Nom",
+  role: "Développeur Full-Stack & Architecte IA",
   location: "Cameroun 🇨🇲",
   passion: ["Innovation", "IA", "Open Source", "Mentoring"],
   currentFocus: "Systèmes de Gestion Médicale avec IA",
   
   skills: {
-    frontend: ["Next.js", "React", "TypeScript", "Tailwind CSS"],
-    backend: ["Node.js", "Python", "PostgreSQL", "Prisma"],
-    ai: ["Machine Learning", "Data Science", "TensorFlow", "PyTorch"],
-    cloud: ["AWS", "Vercel", "Docker", "Kubernetes"],
-    tools: ["Git", "VS Code", "Figma", "Postman"]
+    frontend: ["Next.js", "React", "TypeScript", "Tailwind CSS", "Framer Motion", "Radix UI"],
+    backend: ["Node.js", "Python", "PostgreSQL", "Prisma", "Express", "NextAuth.js"],
+    ai: ["Machine Learning", "Data Science", "Gemini AI", "TensorFlow", "PyTorch"],
+    cloud: ["AWS", "Vercel", "Docker", "Kubernetes", "Cloudinary"],
+    tools: ["Git", "VS Code", "Figma", "Postman", "TanStack Query", "SWR"]
   },
   
   funFact: "Je transforme les idées complexes en solutions simples et élégantes ✨"
@@ -108,24 +108,30 @@ const developer = {
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radixui&logoColor=white)
 
 ### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NextAuth.js](https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logo=nextauth&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ### 🤖 Intelligence Artificielle
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 
 </div>
 
@@ -135,11 +141,11 @@ const developer = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Alfredlandry1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=votre-username&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfredlandry1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=votre-username&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alfredlandry1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=votre-username&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -163,18 +169,50 @@ const developer = {
 </td>
 <td width="33%">
 
-#### 🚀 Projet IA
-**Machine Learning Platform**
-- 🧠 TensorFlow + PyTorch
-- 📊 Data Science avancée
-- 🔍 Modèles prédictifs
-- 🏆 **Impact** : Prédictions médicales précises
+#### 🎓 BlissLearn
+**Plateforme d'Apprentissage IA**
+- 🧠 IA prédictive avec Gemini
+- 🎮 Gamification complète
+- 📊 Analytics avancés
+- 🏆 **Impact** : Apprentissage personnalisé
 
 </td>
 <td width="33%">
 
-#### 🌐 API Platform
-**Microservices Architecture**
+#### 🌱 Trash-Mboa
+**Gestion des Déchets**
+- 📱 Mobile-first design
+- 🗺️ Géolocalisation avancée
+- 👥 Multi-rôles (Citoyen/Collecteur/Admin)
+- 🏆 **Impact** : Environnement plus propre
+
+</td>
+</tr>
+<tr>
+<td width="33%">
+
+#### 🎯 Educamer
+**Plateforme Éducative**
+- 📚 Suivi scolaire complet
+- 🧪 Quiz et évaluations
+- 💬 Forum communautaire
+- 🏆 **Impact** : Éducation moderne
+
+</td>
+<td width="33%">
+
+#### 🤖 Projets IA
+**Machine Learning & Data Science**
+- 🧠 Modèles prédictifs personnalisés
+- 📊 Analyses de données avancées
+- 🔍 Exploration et visualisation
+- 🏆 **Impact** : Solutions intelligentes
+
+</td>
+<td width="33%">
+
+#### 🌐 Architecture Cloud
+**Microservices & DevOps**
 - ⚡ Node.js + Express
 - 🐳 Docker + Kubernetes
 - ☁️ AWS Cloud Native
@@ -186,13 +224,56 @@ const developer = {
 
 ---
 
-## 🎯 Objectifs 2026
+## 🚀 Projets en Détail
+
+### 🎓 BlissLearn - Plateforme d'Apprentissage IA
+**Technologies** : Next.js 14, TypeScript, Prisma, Gemini AI, NextAuth.js
+
+**Fonctionnalités clés** :
+- 🧠 **IA Prédictive** : Recommandations personnalisées avec Gemini
+- 🎮 **Gamification** : Badges, streaks, objectifs et récompenses
+- 📊 **Analytics Avancés** : Graphiques prédictifs et statistiques détaillées
+- 🔐 **Sécurité** : Authentification Google OAuth avec vérification email
+- 📱 **PWA** : Mode hors ligne et notifications push
+
+**Impact** : Révolutionne l'apprentissage en ligne avec une approche personnalisée et motivante.
+
+### 🌱 Trash-Mboa - Gestion des Déchets
+**Technologies** : Next.js 15, TypeScript, Radix UI, TanStack Query, Cloudinary
+
+**Fonctionnalités clés** :
+- 📱 **Mobile-First** : Design responsive optimisé pour tous les appareils
+- 🗺️ **Géolocalisation** : Auto-détection GPS et autocomplétion d'adresses
+- 👥 **Multi-Rôles** : Interface adaptée (Citoyen/Collecteur/Administrateur)
+- 🚨 **Signalements** : Déchets et incidents environnementaux
+- 🎨 **UI Moderne** : Design system cohérent avec animations fluides
+
+**Impact** : Modernise la gestion des déchets pour un environnement plus propre.
+
+### 🎯 Educamer - Plateforme Éducative
+**Technologies** : Next.js 15, TypeScript, shadcn/ui, SWR, PWA
+
+**Fonctionnalités clés** :
+- 📚 **Suivi Scolaire** : Dashboard complet pour étudiants et enseignants
+- 🧪 **Quiz Interactifs** : Évaluations et tests en ligne
+- 💬 **Forum Communautaire** : Communication entre utilisateurs
+- 📱 **PWA** : Application installable avec service worker
+- 🎨 **Design Moderne** : Interface élégante avec Tailwind CSS
+
+**Impact** : Transforme l'éducation avec des outils modernes et interactifs.
+
+---
+
+## 🎯 Objectifs 2024
 
 - [ ] 🚀 **Lancer MediGest CMPD** en production
-- [ ] 🤖 **Développer 5 modèles IA** pour la santé
+- [ ] 🎓 **Finaliser BlissLearn** avec IA avancée
+- [ ] 🌱 **Déployer Trash-Mboa** dans plusieurs villes
+- [ ] 🎯 **Optimiser Educamer** avec nouvelles fonctionnalités
+- [ ] 🤖 **Développer 5 modèles IA** pour différents domaines
 - [ ] 📚 **Contribuer à 10 projets** open source
 - [ ] 🎓 **Mentorer 20 développeurs** juniors
-- [ ] 🌍 **Expansion internationale** du projet
+- [ ] 🌍 **Expansion internationale** des projets
 
 ---
 
@@ -225,7 +306,7 @@ graph TD
 
 ### 🌟 Toujours ouvert aux collaborations !
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alfredlandry1)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/votre-username)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alfred-talom-743b842a5/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alfredlandrytalom2004@gmail.com)
 
@@ -255,7 +336,7 @@ graph TD
 
 ### 🚀 Merci de votre visite !
 
-<img src="https://komarev.com/ghpvc/?username=Alfredlandry1&style=for-the-badge&color=blue" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=votre-username&style=for-the-badge&color=blue" alt="Profile Views" />
 
 **⭐ N'oubliez pas de laisser une étoile si vous aimez mes projets !**
 
